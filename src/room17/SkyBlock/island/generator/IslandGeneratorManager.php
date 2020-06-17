@@ -14,10 +14,6 @@ use pocketmine\level\generator\GeneratorManager as GManager;
 use pocketmine\permission\Permission;
 use pocketmine\permission\PermissionManager;
 use room17\SkyBlock\island\generator\presets\BasicIsland;
-use room17\SkyBlock\island\generator\presets\LostIsland;
-use room17\SkyBlock\island\generator\presets\OPIsland;
-use room17\SkyBlock\island\generator\presets\PalmIsland;
-use room17\SkyBlock\island\generator\presets\ShellyGenerator;
 use room17\SkyBlock\SkyBlock;
 
 class IslandGeneratorManager {
